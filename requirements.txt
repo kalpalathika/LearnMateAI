@@ -1,0 +1,8 @@
+flask
+langchain
+openai
+tiktoken
+python-dotenv
+beautifulsoup4
+html2text
+requests
